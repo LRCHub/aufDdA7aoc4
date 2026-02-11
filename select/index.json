@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "あんなに一緒だったのに",
+  "base_artist": "Takanori Nishikawa",
+  "createdAt": "2026-02-11T09:57:41.960820Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あんなに一緒だったのに",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/01_あんなに一緒だったのに_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あんなに一緒だったのに (TV ending version)",
+      "artist": "See-Saw",
+      "has_synced": false,
+      "path": "select/02_あんなに一緒だったのに_(TV_ending_version)_See-Saw.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あんなに一緒だったのに",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/03_あんなに一緒だったのに_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あんなに一緒だったのに",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/04_あんなに一緒だったのに_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あんなに一緒だったのに",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/05_あんなに一緒だったのに_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あんなに一緒だったのに",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/06_あんなに一緒だったのに_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "あんなに一緒だったのに 〜ReTracks",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/07_あんなに一緒だったのに_〜ReTracks_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "あんなに一緒だったのに",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/08_あんなに一緒だったのに_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "あんなに一緒だったのに",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/09_あんなに一緒だったのに_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "あんなに一緒だったのに",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/10_あんなに一緒だったのに_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "あんなに一緒だったのに",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/11_あんなに一緒だったのに_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "あんなに一緒だったのに",
+      "artist": "西川 貴教",
+      "has_synced": true,
+      "path": "select/12_あんなに一緒だったのに_西川_貴教.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "あんなに一緒だったのに",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/13_あんなに一緒だったのに_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "あんなに一緒だったのに ~ReTracks",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/14_あんなに一緒だったのに_~ReTracks_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "あんなに一緒だったのに",
+      "artist": "GUNDAM",
+      "has_synced": true,
+      "path": "select/15_あんなに一緒だったのに_GUNDAM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あんなに一緒だったのに",
+      "artist": "西川貴教",
+      "has_synced": false,
+      "path": "select/pl_01_あんなに一緒だったのに_西川貴教.txt"
+    }
+  ]
+}
