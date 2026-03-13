@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "あんなに一緒だったのに",
-  "base_artist": "西川　貴教",
-  "createdAt": "2026-02-11T10:47:02.601346Z",
+  "base_artist": "See-Saw",
+  "createdAt": "2026-03-13T14:45:19.385305Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -128,9 +128,9 @@
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "あんなに一緒だったのに",
-      "artist": "西川貴教",
+      "artist": "See-Saw",
       "has_synced": false,
-      "path": "select/pl_01_あんなに一緒だったのに_西川貴教.txt"
+      "path": "select/pl_01_あんなに一緒だったのに_See-Saw.txt"
     }
   ]
 }
